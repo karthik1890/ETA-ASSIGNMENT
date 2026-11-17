@@ -1,0 +1,13 @@
+Project contents:
+- .env.example
+- .gitignore
+- README.md
+- agent_eval/__init__.py
+- agent_eval/agent.py
+- agent_eval/benchmark.py
+- agent_eval/metrics.py
+- agent_eval/tools.py
+- dashboard.py
+- requirements.txt
+- results/README.txt
+- run_experiments.py
